@@ -52,13 +52,19 @@ hr{
 .top-cloud{
     position: absolute;
     top: 50px;
-    right: 700px;
+    right: 25%;
+    left: 75%;
+    max-width: 150px;
+    height: auto;
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 700px;
+    left: 25%;
+    right: 75%;
     bottom: 300px;
+    max-width: 150px;
+    height: auto;
 }
 
 .skill-row{
