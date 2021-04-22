@@ -158,3 +158,16 @@ hr{
     width: 30%;
     margin: 40px auto 20px;
 }
+
+
+@media (max-width: 1204px){
+
+    .top-cloud{
+        visibility: hidden;
+    }
+
+    .bottom-cloud{
+        visibility: hidden;
+    }
+
+}
