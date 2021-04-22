@@ -157,6 +157,10 @@ hr{
     margin: 40px auto 20px;
 }
 
+.tindog:hover{
+    color: #28b5b5;
+}
+
 
 @media (max-width: 1204px){
 
